@@ -3,7 +3,7 @@ using System.IO;
 
 namespace Files
 {
-    class Program
+    class FileFileInfo
     {
         static void Main(string[] args)
         {
